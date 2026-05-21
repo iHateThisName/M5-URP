@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1742441751331922850
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1936480511407956248, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+      propertyPath: model
+      value: 
+      objectReference: {fileID: 4385759106710692710}
+    - target: {fileID: 1936480511407956248, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+      propertyPath: interactionType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1936480511407956248, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+      propertyPath: <InteractionType>k__BackingField
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6277691758492544329, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6277691758492544329, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6277691758492544329, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6277691758492544329, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6277691758492544329, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6277691758492544329, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6277691758492544329, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6277691758492544329, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6277691758492544329, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6277691758492544329, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8367016950286382394, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+      propertyPath: m_Name
+      value: WaterHosePrefab Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 5473473939154205203, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 7201556206707153444, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4005538482832062940}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+--- !u!4 &8925981339811379590 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7201556206707153444, guid: 67abc4aa467cb85458a8442eb85978db, type: 3}
+  m_PrefabInstance: {fileID: 1742441751331922850}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3466700214799294007
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8925981339811379590}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: f70e8ca79feb9514588964169ad22814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f70e8ca79feb9514588964169ad22814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f70e8ca79feb9514588964169ad22814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f70e8ca79feb9514588964169ad22814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f70e8ca79feb9514588964169ad22814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f70e8ca79feb9514588964169ad22814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f70e8ca79feb9514588964169ad22814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f70e8ca79feb9514588964169ad22814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f70e8ca79feb9514588964169ad22814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f70e8ca79feb9514588964169ad22814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f70e8ca79feb9514588964169ad22814, type: 3}
+      propertyPath: m_Name
+      value: Water Hose B
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f70e8ca79feb9514588964169ad22814, type: 3}
+--- !u!4 &4005538482832062940 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: f70e8ca79feb9514588964169ad22814, type: 3}
+  m_PrefabInstance: {fileID: 3466700214799294007}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &4385759106710692710 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f70e8ca79feb9514588964169ad22814, type: 3}
+  m_PrefabInstance: {fileID: 3466700214799294007}
+  m_PrefabAsset: {fileID: 0}
